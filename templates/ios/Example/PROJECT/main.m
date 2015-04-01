@@ -1,9 +1,6 @@
 //
-//  main.m
-//  PROJECT
-//
-//  Created by PROJECT_OWNER on TODAYS_DATE.
-//  Copyright (c) 2014 PROJECT_OWNER. All rights reserved.
+// PROJECT
+// Copyright (c) 2015 TouchTribe B.V. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
